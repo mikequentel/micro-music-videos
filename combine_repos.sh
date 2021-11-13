@@ -2,8 +2,9 @@
 
 RESULT=${PWD##*/}
 
-declare -a REPOS=(fishermans_blues jumbo ocean_subset senorita senorita_prologue seven_veils single_petal_of_a_rose sowhat whole_of_the_moon)
+# declare -a REPOS=(fishermans_blues jumbo ocean_subset senorita senorita_prologue seven_veils single_petal_of_a_rose sowhat whole_of_the_moon)
 # declare -a REPOS=(fishermans_blues)
+declare -a REPOS=(amor_fati bubbles)
 
 # echo ${RESULT}
 # echo ${DIR_LIST}
@@ -21,6 +22,7 @@ for i in ${REPOS[@]}; do
   git fetch ${i}
   git merge --allow-unrelated-histories ${i}/master
   mv ${i}.* ${i}/
+  mv images ${i}/
   mv music ${i}/
   git remote rm ${i}
 done
