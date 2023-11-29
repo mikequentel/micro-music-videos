@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="late_shift_subset_20s_50s_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="30.0000000000" vpos="0" h="16.4977777778" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="1994"/>
+		<tag name="ALBUM" value="Bringing on the Weather"/>
+		<tag name="TITLE" value="Late Shift"/>
+		<tag name="ARTIST" value="Jackopierce"/>
+	</tags>
+	<wavetrack name="Late_Shift-YXZeXUt_zK8" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f220.au" len="166576" min="-0.712282" max="0.810632" rms="0.116989"/>
+				</waveblock>
+				<waveblock start="166576">
+					<simpleblockfile filename="eff1fa8e.au" len="262144" min="-0.865949" max="0.894759" rms="0.138415"/>
+				</waveblock>
+				<waveblock start="428720">
+					<simpleblockfile filename="eff1ff0c.au" len="262144" min="-0.780507" max="0.850238" rms="0.112249"/>
+				</waveblock>
+				<waveblock start="690864">
+					<simpleblockfile filename="eff1fc97.au" len="262144" min="-0.864201" max="0.925006" rms="0.121932"/>
+				</waveblock>
+				<waveblock start="953008">
+					<simpleblockfile filename="eff1fa5d.au" len="262144" min="-0.806216" max="0.785863" rms="0.127668"/>
+				</waveblock>
+				<waveblock start="1215152">
+					<simpleblockfile filename="eff1f0ce.au" len="107848" min="-0.648944" max="0.742363" rms="0.099651"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Late_Shift-YXZeXUt_zK8" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd6b.au" len="166576" min="-0.750771" max="0.772923" rms="0.114555"/>
+				</waveblock>
+				<waveblock start="166576">
+					<simpleblockfile filename="eff1ffd6.au" len="262144" min="-0.830742" max="0.885123" rms="0.133382"/>
+				</waveblock>
+				<waveblock start="428720">
+					<simpleblockfile filename="eff1f208.au" len="262144" min="-0.854889" max="0.86103" rms="0.112652"/>
+				</waveblock>
+				<waveblock start="690864">
+					<simpleblockfile filename="eff1f394.au" len="262144" min="-0.678549" max="0.852863" rms="0.123248"/>
+				</waveblock>
+				<waveblock start="953008">
+					<simpleblockfile filename="eff1f230.au" len="262144" min="-0.732135" max="0.842535" rms="0.12821"/>
+				</waveblock>
+				<waveblock start="1215152">
+					<simpleblockfile filename="eff1fbc3.au" len="107848" min="-0.613006" max="0.721583" rms="0.105339"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" isSelected="1" height="73" minimized="0" numlabels="1">
+		<label t="0.0000000000" t1="30.0000000000" title=""/>
+	</labeltrack>
+</project>
