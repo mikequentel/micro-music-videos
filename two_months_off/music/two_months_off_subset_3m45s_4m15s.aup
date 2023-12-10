@@ -1,0 +1,76 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="two_months_off_subset_3m45s_4m15s_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="46.8621036056" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Electronica"/>
+		<tag name="ALBUM" value="A Hundred Days Off"/>
+		<tag name="musicbrainz_albumid" value="7c35ff51-e81a-4ccc-888f-9b27c5f558f0"/>
+		<tag name="Performer sort order" value="Underworld"/>
+		<tag name="MusicBrainz Artist Id" value="ba2f4f3b-0293-4bc8-bb94-2f73b5207343"/>
+		<tag name="YEAR" value="2002"/>
+		<tag name="Unknown text information frame" value="2002"/>
+		<tag name="MusicBrainz DiscID" value="GYpyyei3MZYGyqc7NWAc05CFz84-"/>
+		<tag name="musicbrainz_discid" value="GYpyyei3MZYGyqc7NWAc05CFz84-"/>
+		<tag name="discid" value="8e0e830a"/>
+		<tag name="CDDB DiscID" value="8e0e830a"/>
+		<tag name="Part of a set" value="1"/>
+		<tag name="TITLE" value="Two Months Off"/>
+		<tag name="ARTIST" value="Underworld"/>
+		<tag name="TRACKNUMBER" value="2/10"/>
+		<tag name="MusicBrainz Album Artist Id" value="ba2f4f3b-0293-4bc8-bb94-2f73b5207343"/>
+		<tag name="Band" value="Underworld"/>
+		<tag name="musicbrainz_albumartistid" value="ba2f4f3b-0293-4bc8-bb94-2f73b5207343"/>
+		<tag name="MusicBrainz Album Id" value="7c35ff51-e81a-4ccc-888f-9b27c5f558f0"/>
+		<tag name="musicbrainz_artistid" value="ba2f4f3b-0293-4bc8-bb94-2f73b5207343"/>
+	</tags>
+	<wavetrack name="two_months_off_subset_3m45s_4m15s" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1325952">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fbbb.au" len="262144" min="-1.016553" max="1.017519" rms="0.244509"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fc69.au" len="262144" min="-1.020604" max="1.020568" rms="0.246127"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f0da.au" len="262144" min="-1.027539" max="1.015177" rms="0.252789"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f2b4.au" len="262144" min="-1.008742" max="1.014133" rms="0.230781"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1f411.au" len="262144" min="-1.012383" max="1.01358" rms="0.241491"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="eff1fd21.au" len="15232" min="-1.002873" max="0.996465" rms="0.226261"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="two_months_off_subset_3m45s_4m15s" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1325952">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f870.au" len="262144" min="-1.013779" max="1.019494" rms="0.252262"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f9a7.au" len="262144" min="-1.015995" max="1.012495" rms="0.255933"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1fffa.au" len="262144" min="-1.018866" max="1.01275" rms="0.260558"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f4af.au" len="262144" min="-1.022789" max="1.012179" rms="0.234363"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1f692.au" len="262144" min="-1.009521" max="1.020695" rms="0.246422"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="eff1f756.au" len="15232" min="-1.003272" max="1.013897" rms="0.233998"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
