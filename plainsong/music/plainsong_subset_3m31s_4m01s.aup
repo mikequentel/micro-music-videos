@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="plainsong_subset_3m31s_4m01s_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="30.0000000000" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="1989"/>
+		<tag name="ALBUM" value="Disintegration"/>
+		<tag name="TITLE" value="Plainsong"/>
+		<tag name="ARTIST" value="The Cure"/>
+	</tags>
+	<wavetrack name="01_-_Plainsong" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f739.au" len="132084" min="-0.60008" max="0.50098" rms="0.134967"/>
+				</waveblock>
+				<waveblock start="132084">
+					<simpleblockfile filename="eff1f8aa.au" len="262144" min="-0.667001" max="0.533614" rms="0.135801"/>
+				</waveblock>
+				<waveblock start="394228">
+					<simpleblockfile filename="eff1f130.au" len="262144" min="-0.51716" max="0.577182" rms="0.12642"/>
+				</waveblock>
+				<waveblock start="656372">
+					<simpleblockfile filename="eff1fed1.au" len="262144" min="-0.564888" max="0.541418" rms="0.133418"/>
+				</waveblock>
+				<waveblock start="918516">
+					<simpleblockfile filename="eff1f958.au" len="262144" min="-0.59659" max="0.573015" rms="0.128219"/>
+				</waveblock>
+				<waveblock start="1180660">
+					<simpleblockfile filename="eff1f0e5.au" len="142340" min="-0.523767" max="0.488868" rms="0.138065"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="01_-_Plainsong" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fb7b.au" len="132084" min="-0.611024" max="0.504897" rms="0.133742"/>
+				</waveblock>
+				<waveblock start="132084">
+					<simpleblockfile filename="eff1fba7.au" len="262144" min="-0.632515" max="0.504818" rms="0.145975"/>
+				</waveblock>
+				<waveblock start="394228">
+					<simpleblockfile filename="eff1f9dd.au" len="262144" min="-0.629302" max="0.593803" rms="0.141069"/>
+				</waveblock>
+				<waveblock start="656372">
+					<simpleblockfile filename="eff1fd12.au" len="262144" min="-0.570774" max="0.688493" rms="0.139143"/>
+				</waveblock>
+				<waveblock start="918516">
+					<simpleblockfile filename="eff1fa76.au" len="262144" min="-0.700334" max="0.658146" rms="0.137149"/>
+				</waveblock>
+				<waveblock start="1180660">
+					<simpleblockfile filename="eff1f7a6.au" len="142340" min="-0.589784" max="0.572596" rms="0.155047"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
