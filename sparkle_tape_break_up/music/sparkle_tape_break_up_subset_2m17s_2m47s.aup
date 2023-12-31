@@ -1,0 +1,60 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="sparkle_tape_break_up_subset_2m17s_2m47s_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="30.0000000000" vpos="0" h="0.0000000000" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="2021"/>
+		<tag name="ALBUM" value="Mood Valiant"/>
+		<tag name="TITLE" value="Sparkle Tape Break Up"/>
+		<tag name="ARTIST" value="Hiatus Kaiyote"/>
+	</tags>
+	<wavetrack name="Sparkle_Tape_Break_Up-1009288783" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1febb.au" len="249756" min="-0.952179" max="0.962985" rms="0.300235"/>
+				</waveblock>
+				<waveblock start="249756">
+					<simpleblockfile filename="eff1f9e5.au" len="262144" min="-0.999915" max="0.970696" rms="0.291218"/>
+				</waveblock>
+				<waveblock start="511900">
+					<simpleblockfile filename="eff1ff9b.au" len="262144" min="-1.006239" max="0.961131" rms="0.294194"/>
+				</waveblock>
+				<waveblock start="774044">
+					<simpleblockfile filename="eff1f50f.au" len="262144" min="-0.960825" max="0.945425" rms="0.286548"/>
+				</waveblock>
+				<waveblock start="1036188">
+					<simpleblockfile filename="eff1faeb.au" len="262144" min="-0.94741" max="0.970754" rms="0.309398"/>
+				</waveblock>
+				<waveblock start="1298332">
+					<simpleblockfile filename="eff1fab2.au" len="24668" min="-0.696673" max="0.653118" rms="0.176552"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Sparkle_Tape_Break_Up-1009288783" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1323000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fdf4.au" len="249756" min="-0.948194" max="0.951501" rms="0.299234"/>
+				</waveblock>
+				<waveblock start="249756">
+					<simpleblockfile filename="eff1f5be.au" len="262144" min="-0.962487" max="0.96246" rms="0.289807"/>
+				</waveblock>
+				<waveblock start="511900">
+					<simpleblockfile filename="eff1f7e6.au" len="262144" min="-0.936879" max="0.953481" rms="0.292496"/>
+				</waveblock>
+				<waveblock start="774044">
+					<simpleblockfile filename="eff1f769.au" len="262144" min="-0.977754" max="0.944438" rms="0.291335"/>
+				</waveblock>
+				<waveblock start="1036188">
+					<simpleblockfile filename="eff1f829.au" len="262144" min="-0.953402" max="0.958528" rms="0.309222"/>
+				</waveblock>
+				<waveblock start="1298332">
+					<simpleblockfile filename="eff1fc9b.au" len="24668" min="-0.721047" max="0.855873" rms="0.189893"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
