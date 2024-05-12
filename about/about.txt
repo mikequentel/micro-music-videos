@@ -1,8 +1,9 @@
-title: about micro-music videos, by Mike Quentel 2024-05-11
+about micro-music videos ("mikequentel_micro-music_videos"), by Mike Quentel 2024-05-11
 background music: subset of "Sugar Baby" by Dock Boggs, 1927-03-09
+video content: subsets of existing micro-music videos on this channel (see each video for information on their respective music and video sources)
 
-#mikequentel #micromusicvideos #about #dockboggs #sugarbaby
-#mikequentel,#micromusicvideos,#about,#dockboggs,#sugarbaby
+#mikequentel #micromusicvideos #about #dockboggs #sugarbaby #kdenlive #audacity #linux
+#mikequentel,#micromusicvideos,#about,#dockboggs,#sugarbaby,#kdenlive,#audacity,#linux
 
 transcript:
 
