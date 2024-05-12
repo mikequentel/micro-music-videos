@@ -1,0 +1,24 @@
+title: about micro-music videos, by Mike Quentel 2024-05-11
+background music: subset of "Sugar Baby" by Dock Boggs, 1927-03-09
+
+#mikequentel #micromusicvideos #about #dockboggs #sugarbaby
+#mikequentel,#micromusicvideos,#about,#dockboggs,#sugarbaby
+
+transcript:
+
+My name is Mike Quentel, and I assemble these micro-music videos as a hobby. I do not make any income doing this; these videos are solely for artistic expression and entertainment.
+
+What makes a micro-music video? First, the length of each video is typically around 30 to 45 seconds. Second, the video segments are typically extracted and stitched together in a way that complements the music. The goal of each video is to entertain, and to express aesthetics with music and imagery. The overall style is not unlike the music videos that appeared in much of the 1980s, where the imagery did not always match or make sense with the lyrics or sound, but in totality, the media were meant as a composition.
+
+How do I select the music and the imagery? Tremendous time is spent selecting the segment of music; it’s about finding an interesting part of a music piece, one that is compelling and intriguing. Also, finding the right video imagery, typically from old historic cinematography, consumes lots of effort, searching and sifting through many sources. Often, video is sourced from public domain titles, or from cinema made by entities that no longer exist, such as the former Soviet Union.
+
+Why are these micro-music videos made? There are so many good pieces of music that have no corresponding music videos; likewise, some music videos that do exist are such poor efforts at doing any justice to the pieces of music. Some of these micro-music videos attempt to use humour; so please do not “read too much” into any of these videos; they are meant to be entertainment.
+
+Some videos are not made because there already exists an excellent music video representation of that music piece. For example, the music video for E=MC2, by Big Audio Dynamite, is such an amazing work that I would feel it inappropriate to try to create a micro-music video that would be even close to the brilliance of that video. Likewise, I feel the same way about Sweet Lullaby, by Deep Forest–it would be a futile exercise to attempt to match that masterpiece of aesthetics and emotion.
+
+These micro-music videos are made on computers running Linux operating systems. The software used includes Audacity and Kdenlive.
+
+Great effort is made to credit sources of the music and the video segments. Also, care is taken to respect the original creators of the sources.
+
+Thank you.
+
