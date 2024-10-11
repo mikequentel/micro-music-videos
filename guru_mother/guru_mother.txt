@@ -1,8 +1,8 @@
 Opus III: Guru Mother (1994), with extract from Die goldene Stadt (1942)
 
-#prague #1942 #opusiii #opus3 #gurumother #hawkshaw #dodds #munro #walton #brammer #bell #harlan #schleif #braun #billinger #eplinius #mondi #puttkamer #söderbaum #klöpfer
+#opusiii #opus3 #gurumother #hawkshaw #dodds #munro #walton #brammer #bell #harlan #schleif #braun #billinger #eplinius #mondi #puttkamer #söderbaum #klöpfer #prague #1942 #sudetenland #praha #prague
 
-prague,1942,opusiii,opus3,gurumother,hawkshaw,dodds,munro,walton,brammer,bell,harlan,schleif,braun,billinger,eplinius,mondi,puttkamer,söderbaum,klöpfer
+opusiii,opus3,gurumother,hawkshaw,dodds,munro,walton,brammer,bell,harlan,schleif,braun,billinger,eplinius,mondi,puttkamer,söderbaum,klöpfer,prague,1942,sudetenland,praha,prague
 
 media_segment_extractor --input $PWD/Die_goldene_Stadt_1942-Die_goldene_Stadt_1942.mp4 --output $PWD/Die_goldene_Stadt_extracted.mp4 --start=00:37:18
 
