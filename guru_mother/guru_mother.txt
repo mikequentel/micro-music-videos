@@ -3,3 +3,10 @@ Opus III: Guru Mother (1994), with extract from Die goldene Stadt (1942)
 #prague #1942 #opusiii #opus3 #gurumother #hawkshaw #dodds #munro #walton #brammer #bell #harlan #schleif #braun #billinger #eplinius #mondi #puttkamer #söderbaum #klöpfer
 
 prague,1942,opusiii,opus3,gurumother,hawkshaw,dodds,munro,walton,brammer,bell,harlan,schleif,braun,billinger,eplinius,mondi,puttkamer,söderbaum,klöpfer
+
+media_segment_extractor --input $PWD/Die_goldene_Stadt_1942-Die_goldene_Stadt_1942.mp4 --output $PWD/Die_goldene_Stadt_extracted.mp4 --start=00:37:18
+
+media_segment_extractor --strip-audio --input $PWD/Die_goldene_Stadt_extracted.mp4 --output $PWD/Die_goldene_Stadt_extracted_no_audio.mp4
+
+media_segment_extractor -add-audio -audio $HOME/mq/mq_wkspc/micro-music-videos/guru_mother/music/guru_mother_4m37s_5m07s.mp3 --input $PWD/Die_goldene_Stadt_extracted_no_audio.mp4 --output $HOME/mq/mq_wkspc/micro-music-videos/guru_mother/guru_mother.mp4
+
