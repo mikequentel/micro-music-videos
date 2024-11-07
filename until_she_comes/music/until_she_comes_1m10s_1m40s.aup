@@ -1,0 +1,70 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="until_she_comes_1m10s_1m40s_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="15.2671201814" zoom="86.1328125000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="YEAR" value="1991"/>
+		<tag name="ALBUM" value="World Outside"/>
+		<tag name="TITLE" value="Until She Comes"/>
+		<tag name="ARTIST" value="Psychedelic Furs"/>
+	</tags>
+	<wavetrack name="The_Psychedelic_Furs_-_Until_She_Comes_dNEDY9I_wOk" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f275.au" len="47872" min="-0.520868" max="0.480672" rms="0.099157"/>
+				</waveblock>
+				<waveblock start="47872">
+					<simpleblockfile filename="eff1f0a8.au" len="262144" min="-0.811459" max="0.771558" rms="0.120536"/>
+				</waveblock>
+				<waveblock start="310016">
+					<simpleblockfile filename="eff1f2e0.au" len="262144" min="-0.861375" max="0.692832" rms="0.115319"/>
+				</waveblock>
+				<waveblock start="572160">
+					<simpleblockfile filename="eff1f7c8.au" len="262144" min="-0.736924" max="0.701501" rms="0.11855"/>
+				</waveblock>
+				<waveblock start="834304">
+					<simpleblockfile filename="eff1f34b.au" len="262144" min="-0.730764" max="0.650547" rms="0.121929"/>
+				</waveblock>
+				<waveblock start="1096448">
+					<simpleblockfile filename="eff1fd9d.au" len="262144" min="-0.606987" max="0.548121" rms="0.119414"/>
+				</waveblock>
+				<waveblock start="1358592">
+					<simpleblockfile filename="eff1f200.au" len="81408" min="-0.738463" max="0.584567" rms="0.111305"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="The_Psychedelic_Furs_-_Until_She_Comes_dNEDY9I_wOk" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1faeb.au" len="47872" min="-0.548751" max="0.464323" rms="0.095519"/>
+				</waveblock>
+				<waveblock start="47872">
+					<simpleblockfile filename="eff1f308.au" len="262144" min="-0.829737" max="0.705158" rms="0.114781"/>
+				</waveblock>
+				<waveblock start="310016">
+					<simpleblockfile filename="eff1f7cf.au" len="262144" min="-0.87474" max="0.755941" rms="0.111501"/>
+				</waveblock>
+				<waveblock start="572160">
+					<simpleblockfile filename="eff1f68a.au" len="262144" min="-0.763838" max="0.654286" rms="0.114125"/>
+				</waveblock>
+				<waveblock start="834304">
+					<simpleblockfile filename="eff1ffa9.au" len="262144" min="-0.681153" max="0.71513" rms="0.118654"/>
+				</waveblock>
+				<waveblock start="1096448">
+					<simpleblockfile filename="eff1f70a.au" len="262144" min="-0.589583" max="0.611787" rms="0.11543"/>
+				</waveblock>
+				<waveblock start="1358592">
+					<simpleblockfile filename="eff1ff0e.au" len="81408" min="-0.79866" max="0.610112" rms="0.106741"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
