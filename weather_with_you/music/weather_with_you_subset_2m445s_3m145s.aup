@@ -1,0 +1,63 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="weather_with_you_subset_2m445s_3m145s_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="47.6000000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Crowded House"/>
+		<tag name="TITLE" value="Weather with You"/>
+		<tag name="YEAR" value="1992"/>
+	</tags>
+	<wavetrack name="Crowded_House_-_Weather_With_You_ag8XcMG1EX4" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f124.au" len="230464" min="-0.777998" max="0.621375" rms="0.123932"/>
+				</waveblock>
+				<waveblock start="230464">
+					<simpleblockfile filename="eff1ffcd.au" len="262144" min="-0.677449" max="0.775959" rms="0.128648"/>
+				</waveblock>
+				<waveblock start="492608">
+					<simpleblockfile filename="eff1f1f5.au" len="262144" min="-0.692396" max="0.728249" rms="0.129286"/>
+				</waveblock>
+				<waveblock start="754752">
+					<simpleblockfile filename="eff1ff97.au" len="262144" min="-0.787715" max="0.793586" rms="0.137106"/>
+				</waveblock>
+				<waveblock start="1016896">
+					<simpleblockfile filename="eff1f39c.au" len="262144" min="-0.771151" max="0.790637" rms="0.143656"/>
+				</waveblock>
+				<waveblock start="1279040">
+					<simpleblockfile filename="eff1fc42.au" len="160960" min="-0.419485" max="0.397935" rms="0.091237"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Crowded_House_-_Weather_With_You_ag8XcMG1EX4" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1440000">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1feab.au" len="230464" min="-0.745803" max="0.718494" rms="0.120045"/>
+				</waveblock>
+				<waveblock start="230464">
+					<simpleblockfile filename="eff1f1af.au" len="262144" min="-0.675968" max="0.78053" rms="0.126153"/>
+				</waveblock>
+				<waveblock start="492608">
+					<simpleblockfile filename="eff1f40d.au" len="262144" min="-0.646666" max="0.766718" rms="0.121911"/>
+				</waveblock>
+				<waveblock start="754752">
+					<simpleblockfile filename="eff1fad1.au" len="262144" min="-0.775822" max="0.794353" rms="0.137113"/>
+				</waveblock>
+				<waveblock start="1016896">
+					<simpleblockfile filename="eff1fcdf.au" len="262144" min="-0.694685" max="0.739427" rms="0.139176"/>
+				</waveblock>
+				<waveblock start="1279040">
+					<simpleblockfile filename="eff1f983.au" len="160960" min="-0.432617" max="0.395317" rms="0.081391"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="1">
+				<controlpoint t="0.000000000000" val="1.000000000000"/>
+			</envelope>
+		</waveclip>
+	</wavetrack>
+</project>
