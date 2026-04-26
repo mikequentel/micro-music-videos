@@ -1,0 +1,65 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="gemini_velvet_horizon_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="0.0000000000" vpos="0" h="0.0000000000" zoom="27.9932317706" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="gemini_velvet_horizon" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1188149">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fe8d.au" len="262144" min="-0.972266" max="0.776781" rms="0.193402"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1fcaf.au" len="262144" min="-0.795737" max="0.972304" rms="0.215783"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f5cc.au" len="262144" min="-0.965954" max="0.896895" rms="0.227219"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f997.au" len="262144" min="-0.97147" max="0.935633" rms="0.203334"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1f9c8.au" len="139573" min="-0.76494" max="0.723818" rms="0.186444"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="26.94216205" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="136785">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f1f7.au" len="136785" min="-0.575969" max="0.610184" rms="0.148955"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="gemini_velvet_horizon" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1188149">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fede.au" len="262144" min="-0.887514" max="0.863583" rms="0.186564"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="eff1f98a.au" len="262144" min="-0.836921" max="0.935468" rms="0.199681"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="eff1f5da.au" len="262144" min="-0.970606" max="0.934387" rms="0.216139"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="eff1f29a.au" len="262144" min="-0.887401" max="0.830824" rms="0.173851"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="eff1fc92.au" len="139573" min="-0.641606" max="0.625027" rms="0.180806"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="26.94216205" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="136785">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f0ea.au" len="136785" min="-0.811772" max="0.832222" rms="0.164271"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
